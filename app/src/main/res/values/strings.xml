@@ -1,4 +1,4 @@
 <resources>
-    <!--  煜昊科技   -->
-    <string name="app_name">TVBox</string>
+    <!--  app名称   -->
+    <string name="煜昊科技">TVBox</string>
 </resources>
